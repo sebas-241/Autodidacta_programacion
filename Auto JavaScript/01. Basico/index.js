@@ -1,0 +1,1 @@
+console.log("Hola Mundo"); // Imprimir en consola

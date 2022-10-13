@@ -1,0 +1,21 @@
+body {
+    background-color: aliceblue;
+}
+
+.titulo_principal {
+    font-size: 25px;
+    color: lightskyblue;
+}
+
+p {
+    font-size: 16px;
+}
+
+.subindice, .biblio {
+    font-size: 14.2px;
+}
+
+#Primer_apartado, #Segundo_apartado, #Tercer_apartado, #Cuarto_apartado, #Quinto_apartado{
+    font-size: 20px;
+    color: lightseagreen;
+}

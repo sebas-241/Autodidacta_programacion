@@ -1,0 +1,37 @@
+body {
+    background-color: lightskyblue;
+}
+
+.encabezado {
+    font-size: 30px;
+    text-align: left;
+    background-color: aqua;
+    border-radius: 5px;
+}
+
+.encabezado, cite {
+    margin-left: 15px;
+    margin-top: 10px;
+    padding: 15px;
+}
+
+.primer{
+    background-color: aliceblue;
+    border-radius: 100px;
+    width: 80px;
+    height: 25px;
+    text-align: center;
+}
+
+.primer:hover {
+    background-color: lightcoral;
+    color: black
+}
+
+.segundo {
+    background-color: aliceblue;
+    border-radius: 100px;
+    width: 70px;
+    height: 25px;
+    text-align: center;
+}
