@@ -1,3 +1,0 @@
-create table carrera(
-  carr cvarchar(50)  
-)
